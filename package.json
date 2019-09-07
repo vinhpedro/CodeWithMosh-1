@@ -1,0 +1,24 @@
+{
+  "name": "codewithmosh",
+  "version": "1.0.0",
+  "description": "Mosh's Tutorial Code Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ibikunleshuaib/CodeWithMosh.git"
+  },
+  "author": "Ibikunle Shuaib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ibikunleshuaib/CodeWithMosh/issues"
+  },
+  "homepage": "https://github.com/Ibikunleshuaib/CodeWithMosh#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^14.3.1",
+    "nodemon": "^1.19.1"
+  }
+}
